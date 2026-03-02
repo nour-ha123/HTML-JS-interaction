@@ -62,7 +62,7 @@ Ajouter dynamiquement une nouvelle city  :
 
 ## 8 - Supprimer une ville
 
-Lorsque l’utilisateur clique sur un <li>, la ville est supprimée.
+Lorsque l’utilisateur clique sur un <li> la ville est supprimée.
 
 
 ## 9 - Validation du formulaire
