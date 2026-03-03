@@ -23,6 +23,7 @@ Indice : .textContent
 
 ```
 
+
 ## 3- Modifier le paragraphe
 Changer le style du <p> :
 Couleur : bleu
@@ -32,8 +33,11 @@ Texte en gras
 ```javascript
 Indice : .style
 ```
+
+
 ## 4 - Modifier la taille de l’image
 Réduire la hauteur de l’image à 300px avec JS .
+
 
 ## 5 - Modifier dynamiquement la liste
 Utiliser ces données pour modifier les éléments <li>
@@ -41,7 +45,6 @@ Ces données suivantes :
 
 ```javascript
 var cities = ['San Francisco', 'Cairo', 'Tokyo', 'Nairobi'];
-
 ```
 
 ## 6 - Changer l’image au clic
@@ -64,6 +67,8 @@ Ajouter dynamiquement une nouvelle city  :
 ## 8 - Supprimer une ville
 
 Lorsque l’utilisateur clique sur un <li> la ville est supprimée.
+
+
 
 
 ## 9 - Validation du formulaire
